@@ -15,6 +15,7 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 Also, create an ".env" file and add the following in it :
+
 POLYGON_MUMBAI = 'https://polygon-mumbai-bor-rpc.publicnode.com'
 PRIVATE_KEY = '[your account private key]' 
 API_KEY = '[your API key of PolygonScan]'
