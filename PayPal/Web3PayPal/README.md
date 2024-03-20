@@ -1,6 +1,6 @@
 # SMART CONTRACT
 
-The 'NS_Pay' is a decentralized financial platform built on the principles of Web3 technology. Inspired by the popular payment gateway PayPal, this application aims to provide users with a secure, transparent, and efficient system for conducting online transactions.
+The BuzzPay is a decentralized financial platform built on the principles of Web3 technology. Inspired by the popular payment gateway PayPal, this application aims to provide users with a secure, transparent, and efficient system for conducting online transactions.
 
 Try running the following commands to deploy the smart contract and see its functionality on [Mumbai_PolygonScan](https://mumbai.polygonscan.com/):
 
